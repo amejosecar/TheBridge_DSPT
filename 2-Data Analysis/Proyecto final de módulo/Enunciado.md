@@ -14,7 +14,7 @@ Disponéis de multitud de fuentes de las que poder extraer esta información en 
 
 Lo importante será construir un modelo sólido tanto de entrada de datos como de salida de conclusiones y que estas sean presentadas de manera elocuente durante las presentaciones de final de módulo.
 
-![dwarehouse](./img/deda_0402.png)
+![](https://file+.vscode-resource.vscode-cdn.net/c%3A/Bootcamp/TheBridge_DSPT/2-Data%20Analysis/Proyecto%20final%20de%20m%C3%B3dulo/img/deda_0402.png?version%3D1719246654722)
 
 ### Equipos
 
